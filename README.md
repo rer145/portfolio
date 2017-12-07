@@ -20,6 +20,23 @@ Another project I created is an interface for plotting and visualizing a 3D "tra
 [GitHub Repository](https://github.com/rer145/ideal-enigma)
 
 
+## Data Visualization
+
+#### IRIS Database
+The first project for this class utilizes the IRIS database from [Kaggle.com](http://www.kaggle.com/). This project was the first of 3, with the purpose being to visualize the data that was available and explaining each step.
+
+[GitHub Repository](https://github.com/rer145/Data-Visualization/tree/master/project-1)
+
+#### Sleep Data
+The sleep data project uses personal data collected from an iOS app called SleepCycle. This app calculates the quality of sleep by using the phone's microphone. In this project, I used that data to see if there were any correlations within the data to determine how to optimize my sleep.
+
+[GitHub Repository](https://github.com/rer145/Data-Visualization/tree/master/project-2)
+
+#### Player of the Year
+Using data from the PGA Tour, I visualized the stats for professional golfer Justin Thomas, comparing his 2016 and 2017 seasons. Thomas became the player of the year in 2017, making huge gains from 2016. The purpose of this project was to see which statistics contributed the most to his success.
+
+[GitHub Repository](https://github.com/rer145/Data-Visualization/tree/master/project-3)
+
 
 ## R
 
@@ -27,7 +44,7 @@ Another project I created is an interface for plotting and visualizing a 3D "tra
 
 For most of my learning with R, I created a blog where I write about each topic I learn. [Learning R for Data Science](https://www.learningrfordatascience.com/) will continue to grow as I continue to increase my knowledge with R and Data Science. 
 
-[GitHub Repository](https://github.com/rer145/DATA650-blog).
+[GitHub Repository](https://github.com/rer145/DATA650-blog)
 
 
 
